@@ -1,7 +1,7 @@
 # Minecraft_More_Convenient_Synthesis
 Minecraft更方便的合成数据包(第一版未完成)
 
-Minecraft_More_Convenient_Synthesis(The first version is not complete)
+Minecraft More Convenient Synthesis(The first version is not complete)
 
 
 此数据包基于Minecraft1.13版本进行制作，修改pack.mcmeta文件内的数字可向上兼容，具体修改方式详见Minecraft Wiki(中文:https://minecraft.fandom.com/zh/wiki/%E6%95%B0%E6%8D%AE%E5%8C%85 英文:https://minecraft.fandom.com/wiki/Data_pack)
