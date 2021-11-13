@@ -1,6 +1,6 @@
 {
   "group": "warped_fungus_on_a_stick",
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     "  2",
     " 45",

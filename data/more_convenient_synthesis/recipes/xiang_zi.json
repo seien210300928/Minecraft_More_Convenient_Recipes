@@ -1,6 +1,6 @@
 {
   "group": "chest",
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     "LLL",
     "L L",

@@ -1,6 +1,6 @@
 {
   "group": "light_blue_dye",
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:bone_meal"
