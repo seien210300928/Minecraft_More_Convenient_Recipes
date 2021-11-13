@@ -2,33 +2,12 @@
   "group": "more_convenient_synthesis",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "012",
-    "3 5",
-    "678"
+    "LLL",
+    "L L",
+    "LLL"
   ],
   "key": {
-    "0": {
-      "tag": "minecraft:logs"
-    },
-    "1": {
-      "tag": "minecraft:logs"
-    },
-    "2": {
-      "tag": "minecraft:logs"
-    },
-    "3": {
-      "tag": "minecraft:logs"
-    },
-    "5": {
-      "tag": "minecraft:logs"
-    },
-    "6": {
-      "tag": "minecraft:logs"
-    },
-    "7": {
-      "tag": "minecraft:logs"
-    },
-    "8": {
+    "L": {
       "tag": "minecraft:logs"
     }
   },
