@@ -1,6 +1,6 @@
 {
   "group": "fishing_rod",
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:carrot_on_a_stick"
