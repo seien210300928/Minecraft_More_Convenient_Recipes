@@ -7,11 +7,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:exposed_cut_copper"
+      "item": "minecraft:nether_bricks"
     }
   },
   "result": {
-    "item": "minecraft:exposed_cut_copper_stairs",
+    "item": "minecraft:nether_brick_stairs",
     "count": 8
   }
 }

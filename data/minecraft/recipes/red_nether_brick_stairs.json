@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     "#  ",
     "## ",
@@ -12,6 +12,6 @@
   },
   "result": {
     "item": "minecraft:red_nether_brick_stairs",
-    "count": 4
+    "count": 8
   }
 }

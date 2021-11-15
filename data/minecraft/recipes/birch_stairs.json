@@ -1,5 +1,6 @@
 {
   "type": "crafting_shaped",
+  "group": "wooden_stairs",
   "pattern": [
     "#  ",
     "## ",
@@ -7,11 +8,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:exposed_cut_copper"
+      "item": "minecraft:birch_planks"
     }
   },
   "result": {
-    "item": "minecraft:exposed_cut_copper_stairs",
+    "item": "minecraft:birch_stairs",
     "count": 8
   }
 }

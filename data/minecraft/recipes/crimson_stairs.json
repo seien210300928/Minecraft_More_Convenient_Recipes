@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "group": "wooden_stairs",
   "pattern": [
     "#  ",
@@ -13,6 +13,6 @@
   },
   "result": {
     "item": "minecraft:crimson_stairs",
-    "count": 4
+    "count": 8
   }
 }
