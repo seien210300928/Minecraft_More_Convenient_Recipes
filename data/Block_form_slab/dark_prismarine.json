@@ -1,15 +1,11 @@
 {
   "type": "crafting_shapeless",
-  "pattern": [
-    "###"
+  "ingredients": [
+    { "item": "minecraft:dark_prismarine_slab" },
+    { "item": "minecraft:dark_prismarine_slab" },
+    { "item": "minecraft:slime_ball" }
   ],
-  "key": {
-    "#": {
-      "item": "minecraft:dark_prismarine"
-    }
-  },
   "result": {
-    "item": "minecraft:dark_prismarine_slab",
-    "count": 6
+    "item": "minecraft:dark_prismarine"
   }
 }

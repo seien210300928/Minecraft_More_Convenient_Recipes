@@ -1,16 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
   "group": "wooden_slab",
-  "pattern": [
-    "###"
+  "ingredients": [
+    { "item": "minecraft:crimson_slab" },
+    { "item": "minecraft:crimson_slab" },
+    { "item": "minecraft:slime_ball" }
   ],
-  "key": {
-    "#": {
-      "item": "minecraft:crimson_planks"
-    }
-  },
   "result": {
-    "item": "minecraft:crimson_slab",
-    "count": 6
+    "item": "minecraft:crimson_planks"
   }
 }

@@ -1,15 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "ingredients": [
+    { "item": "minecraft:cut_copper_slab" },
+    { "item": "minecraft:cut_copper_slab" },
+    { "item": "minecraft:slime_ball" }
   ],
-  "key": {
-    "#": {
-      "item": "minecraft:cut_copper"
-    }
-  },
   "result": {
-    "item": "minecraft:cut_copper_slab",
-    "count": 6
+    "item": "minecraft:cut_copper"
   }
 }

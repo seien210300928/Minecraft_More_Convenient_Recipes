@@ -1,15 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "ingredients": [
+    { "item": "minecraft:cobbled_deepslate_slab" },
+    { "item": "minecraft:cobbled_deepslate_slab" },
+    { "item": "minecraft:slime_ball" }
   ],
-  "key": {
-    "#": {
-      "item": "minecraft:cobbled_deepslate"
-    }
-  },
   "result": {
-    "item": "minecraft:cobbled_deepslate_slab",
-    "count": 6
+    "item": "minecraft:cobbled_deepslate"
   }
 }

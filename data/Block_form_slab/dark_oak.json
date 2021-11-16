@@ -1,16 +1,12 @@
 {
   "type": "crafting_shapeless",
   "group": "planks",
-  "pattern": [
-    "###"
+  "ingredients": [
+    { "item": "minecraft:dark_oak_slab" },
+    { "item": "minecraft:dark_oak_slab" },
+    { "item": "minecraft:slime_ball" }
   ],
-  "key": {
-    "#": {
-      "item": "minecraft:dark_oak_planks"
-    }
-  },
   "result": {
-    "item": "minecraft:dark_oak_slab",
-    "count": 6
+    "item": "minecraft:dark_oak_planks"
   }
 }

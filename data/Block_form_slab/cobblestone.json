@@ -1,15 +1,11 @@
 {
   "type": "crafting_shapeless",
-  "pattern": [
-    "###"
+  "ingredients": [
+    { "item": "cobblestone_slab" },
+    { "item": "cobblestone_slab" },
+    { "item": "minecraft:slime_ball" }
   ],
-  "key": {
-    "#": {
-      "item": "minecraft:cobblestone"
-    }
-  },
   "result": {
-    "item": "minecraft:cobblestone_slab",
-    "count": 6
+    "item": "minecraft:cobblestone"
   }
 }
