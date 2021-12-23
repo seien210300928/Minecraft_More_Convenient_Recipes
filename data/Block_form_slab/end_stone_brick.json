@@ -1,15 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "ingredients": [
+    { "item": "minecraft:end_stone_brick_slab" },
+    { "item": "minecraft:end_stone_brick_slab" },
+    { "item": "minecraft:slime_ball" }
   ],
-  "key": {
-    "#": {
-      "item": "minecraft:end_stone_bricks"
-    }
-  },
   "result": {
-    "item": "minecraft:end_stone_brick_slab",
-    "count": 6
+    "item": "minecraft:end_stone_bricks"
   }
 }
