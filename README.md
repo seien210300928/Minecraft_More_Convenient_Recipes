@@ -14,6 +14,6 @@ This Data_pack is based on Minecraft 1.13 and the numbers in the modified pack.m
 Instead of just publishing Data_pack based on version 1.13, I write the appropriate recipes to the 1.13 packet based on the latest version of the recipe for upward compatibility (except where the high and low versions of the item ID or tag are different).
 
 
-数据包现处于制作阶段，并未推出任何正式版，正式版发布的同时，我会在Wiki页写上数据包内的所有配方
+数据包现处于制作阶段，并未推出任何正式版，正式版发布的同时，我会写上数据包内的所有配方
 
-The Data_pack is in production and no official version has been released, and I'll write all the recipes in the Data_pack on the wiki page at the same time as the official recipes
+The Data_pack is in production and no official version has been released, and I'll write all the recipes in the Data_pack page at the same time as the official recipes
