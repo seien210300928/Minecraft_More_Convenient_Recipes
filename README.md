@@ -17,7 +17,7 @@ Instead of just publishing Data_pack based on version 1.13, I write the appropri
 
 
 ## 配方包括 Recipes:
- 1.对应台阶 * 2+粘液球 * 1 = 对应整块
+ 1. 对应台阶 * 2+粘液球 * 1 = 对应整块
  1. Corresponding slab * 2 + slime ball * 1 = corresponding whole block
  2. 胡萝卜钓竿和诡异菌钓竿可在钓竿配方的底部加上对应材料来获得
  2. Carrot_on_a_stick and warped_fungus_on_a_stick can be obtained by adding the corresponding materials to the bottom of the rod recipe
