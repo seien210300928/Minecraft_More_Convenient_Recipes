@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "group": "wooden_slab",
+  "ingredients": [
+    { "item": "minecraft:crimson_slab" },
+    { "item": "minecraft:crimson_slab" },
+    { "item": "minecraft:slime_ball" }
+  ],
+  "result": {
+    "item": "minecraft:crimson_planks"
+  }
+}
