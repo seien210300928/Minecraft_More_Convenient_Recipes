@@ -1,8 +1,8 @@
 {
   "type": "crafting_shapeless",
   "ingredients": [
-    { "item": "minecraft:cut_sandstone" },
-    { "item": "minecraft:cut_sandstone" },
+    { "item": "minecraft:sandstone_slab" },
+    { "item": "minecraft:sandstone_slab" },
     { "item": "minecraft:slime_ball" }
   ],
   "result": {
