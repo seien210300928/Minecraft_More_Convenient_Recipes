@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:smooth_stone_slab" },
+    { "item": "minecraft:smooth_stone_slab" },
+    { "item": "minecraft:slime_ball" }
+  ],
+  "result": {
+    "item": "minecraft:smooth_stone"
+  }
+}
