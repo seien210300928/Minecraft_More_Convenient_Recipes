@@ -28,6 +28,7 @@ Instead of just publishing Data_pack based on version 1.13, I write the appropri
  3、 胡萝卜钓竿和诡异菌钓竿现在可以把对应材料从钓竿上取下，但不会返还胡萝卜和诡异菌(掉过耐久的不行)
  
  3、 Carrot_on_a_stick and warped_fungus_on_a_stick can now remove the corresponding material from the rod, but will not return carrots and warped_fungus (Item durability dissatisfaction does not make)
+ 
  4、 用八个原木在工作台围上一圈可以做4个箱子
  
  4、 You can make 4 chests by making a circle around the workbench with eight logs
