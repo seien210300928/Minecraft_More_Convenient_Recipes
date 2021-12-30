@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "L L",
+    "LLL",
+    "L L"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_horse_armor"
+  }
+}
