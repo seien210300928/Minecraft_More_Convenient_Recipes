@@ -1,10 +1,10 @@
 {
   "type": "smelting",
-  "group": "copper_block",
+  "group": "leather",
   "ingredient": {
-    "item": "minecraft:raw_copper_block"
+    "item": "minecraft:rotten_flesh"
   },
-  "result": "minecraft:copper_block",
-  "experience": 0.7,
+  "result": "minecraft:leather",
+  "experience": 1,
   "cookingtime": 200
 }
