@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cobblestone",
+    "minecraft:blackstone",
+    "minecraft:diorite",
+    "minecraft:granite",
+    "minecraft:andesite",
+    "minecraft:basalt",
+    "minecraft:calcite",
+    "minecraft:end_stone",
+    "minecraft:prismarine"
+  ]
+}
