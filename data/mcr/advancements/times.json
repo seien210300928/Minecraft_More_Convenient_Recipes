@@ -1,0 +1,78 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_block"
+    },
+    "title": {
+      "translate": "advancements.mcr.times.title",
+      "color": "#66CCFF"
+    },
+    "description": {
+      "translate": "advancements.mcr.times.description",
+      "color": "#FFCC66"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "copper_block": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "smelting:copper_block_form_blasting"
+      }
+    },
+    "iron_block": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "smelting:iron_block_form_blasting"
+      }
+    },
+    "gold_block": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "smelting:gold_block_form_blasting"
+      }
+    },
+    "copper_blockform_smelting": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "smelting:copper_block_form_smelting"
+      }
+    },
+    "iron_blockform_smelting": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "smelting:iron_block_form_smelting"
+      }
+    },
+    "gold_blockform_smelting": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "smelting:gold_block_form_smelting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "copper_block",
+      "gold_block",
+      "iron_block",
+      "copper_blockform_smelting",
+      "iron_blockform_smelting",
+      "gold_blockform_smelting"
+    ]
+  ],
+  "parent": "mcr:compress_storage",
+  "rewards": {
+    "recipes": [
+      "smelting:copper_block_form_blasting",
+      "smelting:iron_block_form_blasting",
+      "smelting:gold_block_form_blasting",
+      "smelting:copper_block_form_smelting",
+      "smelting:iron_block_form_smelting",
+      "smelting:gold_block_form_smelting"
+    ]
+  }
+}

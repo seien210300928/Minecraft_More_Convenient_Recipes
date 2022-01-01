@@ -1,0 +1,32 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:gold_block"
+    },
+    "title": {
+      "translate": "advancements.mcr.root.title",
+      "color": "#66CCFF"
+    },
+    "description": {
+      "translate": "advancements.mcr.root.description",
+      "color": "#FFCC66"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "moreconvenient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag":  "minecraft:logs"
+          }
+        ]
+      }
+    }
+  }
+}

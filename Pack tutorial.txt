@@ -1,0 +1,40 @@
+将对应版本的zip压缩包放入".minecraft\saves\your saves\datapacks"或".minecraft\versions\Minecraft versions\your saves\datapacks"文件夹即可。
+
+Put the corresponding version of the zip archive into the ".minecraft\saves\your saves\datapacks" or ".minecraft\versions\Minecraft versions\your saves\datapacks" folder.
+
+### 配方包括 Recipes:
+ 1、 对应台阶 * 2+粘液球 * 1 = 对应整块
+ 
+ 1、 Corresponding slab * 2 + slime ball * 1 = corresponding whole block
+ 
+ 2、 胡萝卜钓竿和诡异菌钓竿可在钓竿配方的底部加上对应材料来获得
+ 
+ 2、 Carrot_on_a_stick and warped_fungus_on_a_stick can be obtained by adding the corresponding materials to the bottom of the rod recipe
+ 
+ 3、 胡萝卜钓竿和诡异菌钓竿现在可以把对应材料从钓竿上取下，但不会返还胡萝卜和诡异菌
+ 
+ 3、 Carrot_on_a_stick and warped_fungus_on_a_stick can now remove the corresponding material from the rod, but will not return carrots and warped_fungus
+ 
+ 4、 用八个原木在工作台围上一圈可以做4个箱子
+ 
+ 4、 You can make 4 chests by making a circle around the workbench with eight logs
+ 
+ 5、 可以在弓的配方中间放一个投掷器来制作发射器
+ 
+ 5、 You can place a dropper in the middle of the bow recipe to craft a dispenser
+
+6、粗矿块能烧炼为金属块了，同时这个过程消耗的燃料、时间和获得的经验也是原先的8倍
+
+6、raw ore blocks can now be smelted into metal blocks,and the process consumes 8 times as much fuel, time, and experience
+
+7、其他马铠可以像皮革马铠一样被合成
+
+7、Other horse_armor can be crafted like leather_horse_armor
+
+8、闪长岩、花岗岩、安山岩、方解石、末地石、海晶石现在可在合成石器与方块时代替圆石
+
+8、Diorite, granite, andesite, calcite, end stone, and seamarine can now replace cobblestone when crafting stone tools and blocks on crafting
+
+9、腐肉可以烧制成皮革
+
+9、blasting can be burned into leather
