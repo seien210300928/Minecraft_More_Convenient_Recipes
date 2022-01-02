@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:leather_horse_armor"
+    },
+    "title": {
+      "translate": "advancements.mcr.horse_leather_horse_armor.title",
+      "color": "#66CCFF"
+    },
+    "description": {
+      "translate": "advancements.mcr.horse_leather_horse_armor.description",
+      "color": "#FFCC66"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "leather_horse_armor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:leather_horse_armor"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "leather_horse_armor"
+    ]
+  ],
+  "parent": "mcr:root"
+}

@@ -1,0 +1,54 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_horse_armor"
+    },
+    "title": {
+      "translate": "advancements.mcr.draw_horses_according_horses.title",
+      "color": "#66CCFF"
+    },
+    "description": {
+      "translate": "advancements.mcr.draw_horses_according_horses.description",
+      "color": "#FFCC66"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "diamond_horse_armor": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "crafting:diamond_horse_armor"
+      }
+    },
+    "golden_horse_armor": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "crafting:golden_horse_armor"
+      }
+    },
+    "iron_horse_armor": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "crafting:iron_horse_armor"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "iron_horse_armor",
+      "golden_horse_armor",
+      "diamond_horse_armor"
+    ]
+  ],
+  "parent": "mcr:horse",
+  "rewards": {
+    "recipes": [
+      "crafting:iron_horse_armor",
+      "crafting:golden_horse_armor",
+      "crafting:diamond_horse_armor"
+    ]
+  }
+}
